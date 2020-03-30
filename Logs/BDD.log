@@ -1,0 +1,78 @@
+2020-03-30 17:18:00,088 [NonParallelWorker] INFO Pegasus.Steps - Driver ayağa kalktı...
+2020-03-30 17:18:00,146 [NonParallelWorker] INFO Pegasus.Steps - Step :'.nxm2_select-nereden .select2-selection--single' objesine tıklanır.
+2020-03-30 17:18:00,149 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.nxm2_select-nereden .select2-selection--single
+2020-03-30 17:18:01,138 [NonParallelWorker] INFO Pegasus.Steps - Step :'.select2-search__field' alanına "İstanbul Tümü" değeri yazılır.
+2020-03-30 17:18:01,142 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.select2-search__field
+2020-03-30 17:18:03,317 [NonParallelWorker] INFO Pegasus.Steps - Step :'1' saniye beklenir.
+2020-03-30 17:18:03,320 [NonParallelWorker] INFO Pegasus.Steps - 1saniye bekleniyor...
+2020-03-30 17:18:04,323 [NonParallelWorker] INFO Pegasus.Steps - Step :'.nxm2_select-nereye .select2-selection--single' objesine tıklanır.
+2020-03-30 17:18:04,324 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.nxm2_select-nereye .select2-selection--single
+2020-03-30 17:18:05,263 [NonParallelWorker] INFO Pegasus.Steps - Step :'.select2-search__field' alanına "Elazığ" değeri yazılır.
+2020-03-30 17:18:05,264 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.select2-search__field
+2020-03-30 17:18:07,046 [NonParallelWorker] INFO Pegasus.Steps - Step :'#dp1' objesine tıklanır.
+2020-03-30 17:18:07,046 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :#dp1
+2020-03-30 17:18:07,945 [NonParallelWorker] INFO Pegasus.Steps - Step :'Gidiş Tarihi' alanından "1.Şubat.2021" tarihi seçilir.
+2020-03-30 17:18:07,950 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :Gidiş Tarihi
+2020-03-30 17:18:08,776 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:10,508 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:12,221 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:13,918 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:15,625 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:17,320 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:19,023 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:20,715 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:22,434 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:24,106 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:18:25,812 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:18:26,616 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Ocak
+2020-03-30 17:18:28,348 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:18:29,158 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Şubat
+2020-03-30 17:18:29,352 [NonParallelWorker] INFO Pegasus.Steps - Step :'2' saniye beklenir.
+2020-03-30 17:18:29,352 [NonParallelWorker] INFO Pegasus.Steps - 2saniye bekleniyor...
+2020-03-30 17:18:31,355 [NonParallelWorker] INFO Pegasus.Steps - Step :'Dönüş Tarihi' alanından "1.Mart.2021" tarihi seçilir.
+2020-03-30 17:18:31,355 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :Dönüş Tarihi
+2020-03-30 17:18:32,168 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:18:32,976 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Şubat
+2020-03-30 17:18:34,642 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:18:35,445 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Mart
+2020-03-30 17:18:35,573 [NonParallelWorker] INFO Pegasus.Steps - Step :'#fligth-searh .nxm2_btn-dark_orange' objesine tıklanır.
+2020-03-30 17:18:35,573 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :#fligth-searh .nxm2_btn-dark_orange
+2020-03-30 17:19:47,277 [NonParallelWorker] INFO Pegasus.Steps - Driver ayağa kalktı...
+2020-03-30 17:19:47,325 [NonParallelWorker] INFO Pegasus.Steps - Step :'.nxm2_select-nereden .select2-selection--single' objesine tıklanır.
+2020-03-30 17:19:47,329 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.nxm2_select-nereden .select2-selection--single
+2020-03-30 17:19:48,373 [NonParallelWorker] INFO Pegasus.Steps - Step :'.select2-search__field' alanına "İstanbul Tümü" değeri yazılır.
+2020-03-30 17:19:48,375 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.select2-search__field
+2020-03-30 17:19:50,949 [NonParallelWorker] INFO Pegasus.Steps - Step :'1' saniye beklenir.
+2020-03-30 17:19:50,952 [NonParallelWorker] INFO Pegasus.Steps - 1saniye bekleniyor...
+2020-03-30 17:19:51,954 [NonParallelWorker] INFO Pegasus.Steps - Step :'.nxm2_select-nereye .select2-selection--single' objesine tıklanır.
+2020-03-30 17:19:51,955 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.nxm2_select-nereye .select2-selection--single
+2020-03-30 17:20:02,768 [NonParallelWorker] INFO Pegasus.Steps - Step :'.select2-search__field' alanına "Elazığ" değeri yazılır.
+2020-03-30 17:20:02,768 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :.select2-search__field
+2020-03-30 17:20:04,747 [NonParallelWorker] INFO Pegasus.Steps - Step :'#dp1' objesine tıklanır.
+2020-03-30 17:20:04,747 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :#dp1
+2020-03-30 17:20:05,627 [NonParallelWorker] INFO Pegasus.Steps - Step :'Gidiş Tarihi' alanından "1.Şubat.2021" tarihi seçilir.
+2020-03-30 17:20:05,629 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :Gidiş Tarihi
+2020-03-30 17:20:06,470 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:08,366 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:10,065 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:11,746 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:13,462 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:15,140 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:16,834 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:18,512 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:20,247 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:21,936 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2020
+2020-03-30 17:20:23,633 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:20:24,467 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Ocak
+2020-03-30 17:20:26,152 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:20:26,942 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Şubat
+2020-03-30 17:20:27,126 [NonParallelWorker] INFO Pegasus.Steps - Step :'2' saniye beklenir.
+2020-03-30 17:20:27,126 [NonParallelWorker] INFO Pegasus.Steps - 2saniye bekleniyor...
+2020-03-30 17:20:29,128 [NonParallelWorker] INFO Pegasus.Steps - Step :'Dönüş Tarihi' alanından "1.Mart.2021" tarihi seçilir.
+2020-03-30 17:20:29,128 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :Dönüş Tarihi
+2020-03-30 17:20:29,939 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:20:30,740 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Şubat
+2020-03-30 17:20:32,452 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :2021
+2020-03-30 17:20:33,252 [NonParallelWorker] INFO Pegasus.Base.BasePage - Element Text :Mart
+2020-03-30 17:20:33,381 [NonParallelWorker] INFO Pegasus.Steps - Step :'#fligth-searh .nxm2_btn-dark_orange' objesine tıklanır.
+2020-03-30 17:20:33,381 [NonParallelWorker] INFO Pegasus.Steps - Parametre   :#fligth-searh .nxm2_btn-dark_orange
